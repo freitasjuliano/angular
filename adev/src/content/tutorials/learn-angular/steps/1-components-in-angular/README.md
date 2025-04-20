@@ -1,4 +1,4 @@
-# Components in Angular
+# Components in Angular 
 
 Components are the foundational building blocks for any Angular application. Each component has three parts:
 
